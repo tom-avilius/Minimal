@@ -59,4 +59,4 @@ function updateTime() {
     requestAnimationFrame(updateTime);
 }
 
-element.draggable(document.getElementById('clock'));
+element.draggable(document.getElementById('clock'), 'clock');

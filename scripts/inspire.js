@@ -1,2 +1,2 @@
 
-element.draggable(document.getElementById('inspire'));
+element.draggable(document.getElementById('inspire'), 'inspire');
